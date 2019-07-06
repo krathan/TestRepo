@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Original file created in UT2
+=======
+THis is merged file from UT2
+Modifying for testing
+>>>>>>> UT1
